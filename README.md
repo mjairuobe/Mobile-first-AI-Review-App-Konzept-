@@ -12,3 +12,16 @@ Doch wenn wir beim Zähneputzen eine Idee bekommen, dann müssen wir immer noch 
 
 Doch wie überprüfen wir die Arbeit von AI-Agentdn vom Handy?
 Heutige Entwicklungswerkzeuge sind nicht unbedingt Mobile-first gebaut. 
+
+### Herausforderungen 
+- Quellcode-Review Handy optimiertlen
+- neue große Codebasen ergründbar machen
+- Text-Response von Agenten muss einfacher überblickbar sein z. B. einer Konvention folgen und die Textlänge begrenzen
+
+## Lösungsansätze
+
+### UML zum Review nutze
+
+### Nahtlose Integration von interaktiven Klassendiagrammen im Review-Prozess 
+
+- Klassendiagramme können automatisch generiert werden z. B. mit Mermaid

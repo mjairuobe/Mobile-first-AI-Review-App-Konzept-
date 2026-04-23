@@ -22,6 +22,14 @@ Heutige Entwicklungswerkzeuge sind nicht unbedingt Mobile-first gebaut.
 
 ### UML zum Review nutze
 
-### Nahtlose Integration von interaktiven Klassendiagrammen im Review-Prozess 
+### Nahtlose Integration von interaktiven Klassendiagrammen im Review-Prozess
+Ein Smartphone kann häufig ohne Scrollen ein Klassendiagramm komplett darstellen. Das macht ein Klassendiagramm, Mobbile-first Review-fähig. 
 
-- Klassendiagramme können automatisch generiert werden z. B. mit Mermaid
+- Klassen-Diagramme helfen, um Software-Code schnell zu verstehen. 
+- Klassendiagramme können automatisch generiert werden z. B. mit Pyreverse lassen sich Mermaid Diagramme generieren
+- im Klassendiagramm könnten geänderte Funktionen gehighlighted werden
+- Methoden, Zustände und Deklarationen könnten Hyperlinks zu Pages innerhalb der Review-App sein
+- Tools wie Snapify können Programmcode z. B.  Methoden, Deklarationen ansehnlich darstellen
+
+So kann ein effizienter Software-Review-Prozess auf dem Handy unterstützt werden. 
+

@@ -1,4 +1,4 @@
-# Mobile-first-AI-Review-App-Konzept
+# Mobile-first AI-Review-App Konzept
 
 Das AI-Zeitalter hat Softwareentwickung das grundlegend verändert. AI nimmt uns durch agentische Workflows viel Arbeit bei der Softwareentwicklung ab. 
 

@@ -31,5 +31,12 @@ Ein Smartphone kann häufig ohne Scrollen ein Klassendiagramm komplett darstelle
 - Methoden, Zustände und Deklarationen könnten Hyperlinks zu Pages innerhalb der Review-App sein
 - Tools wie Snapify können Programmcode z. B.  Methoden, Deklarationen ansehnlich darstellen
 
+#### Konkretes Umsetzungsidee
+- App-Pages mit hübschen Klassndiagrammen aus Formaten wie Mermaid mit verlinkbaren Klassenelementen zur Interaktion, Highlighting von geänderten Methoden, Variablen etc.
+- Pages zur Review einzelner Methoden oder Codeelementen, Highlightimg der Änderungen, kein Scrollen
+
 So kann ein effizienter Software-Review-Prozess auf dem Handy unterstützt werden. 
 
+### Konzept-Todos
+- Ideen zu automatischen Verstehen von Softwaresystemen z. B  Generierung von Sequenzdiagrammen
+- Beschreibung von Templates mit Längenbegrenzungen für AI-Textresponse nach Kategorie z. B. PR, Bugfix-Report, Featureimplementation Bericht etc. - macht Review Prozess schneller 
